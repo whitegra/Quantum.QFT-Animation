@@ -44,7 +44,4 @@ This project aims to help:
 - Explore basic quantum gates and transformations.  
 - Practice using PennyLane, JAX, and Matplotlib for quantum computing applications.
 
-## License  
-MIT License.
-
 
